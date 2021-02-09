@@ -1,4 +1,3 @@
-package p01basics
 
 import kotlin.math.abs
 
